@@ -1,0 +1,4 @@
+scenario,water_score,energy_score,cost_score,deployment_score,reliability_score,ecology_score,notes
+A_freshwater_baseline,,,,,,,Fill only with documented/model-specified values
+B_hybrid_seawater,,,,,,,Fill only with documented/model-specified values
+C_offshore_submerged,,,,,,,Fill only with documented/model-specified values
