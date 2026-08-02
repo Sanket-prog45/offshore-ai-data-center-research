@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this research repository, please cite the manuscript."
+title: "From Freshwater to Seawater: Evaluating Offshore Data Centers as a Sustainable Cooling Strategy for AI Infrastructure"
+type: article
+authors:
+  - family-names: Gavali
+    given-names: "Sanket Kiran"
+    affiliation: "Amrita Vidyalayam"
+repository-code: "https://github.com/Sanket-prog45/offshore-ai-data-center-research"
+abstract: "Independent scenario-based research comparing freshwater, hybrid seawater-assisted, and fully offshore cooling architectures for AI data-center infrastructure."
+keywords:
+  - AI infrastructure
+  - data centers
+  - seawater cooling
+  - offshore computing
+  - sustainability
+  - water use
+  - multi-criteria decision analysis
