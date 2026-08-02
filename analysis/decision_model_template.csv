@@ -1,0 +1,7 @@
+criterion,baseline_weight,description
+water_use,,Water-resource performance
+energy_efficiency,,Energy/PUE-related performance
+capital_cost,,Capital-cost performance
+deployment_feasibility,,Deployment/serviceability performance
+reliability,,Reliability evidence/assumption
+ecological_regulatory_risk,,Ecological and regulatory considerations
